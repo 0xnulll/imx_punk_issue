@@ -1,5 +1,5 @@
 # IMX PUNK Presale Mint
-IMX PUNK Minting Exposed
+
 So IMX Punk Presale Minting started on 6th Nov, 2021, soon after kick off they started having minting issues. ( https://mint.imxpunks.com/ )
 Seem fishy as there website title was "React App", they forgot to change website title ?
 
